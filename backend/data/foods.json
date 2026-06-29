@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "description": "A delicious cheeseburger with all the fixings.",
+    "price": 5.99,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Pizza Slice",
+    "description": "A classic slice of pepperoni pizza.",
+    "price": 2.99,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Fries",
+    "description": "Crispy golden fries.",
+    "price": 1.99,
+    "image_url": "https://via.placeholder.com/150"
+  }
+]
